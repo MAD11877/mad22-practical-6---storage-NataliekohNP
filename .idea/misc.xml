@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Documents/year2.1/MAD/week3/tutorial3_newone/app/src/main/res/layout/activity_list.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/User/Documents/year2.1/MAD/week3/tutorial3_newone/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/User/Documents/year2.1/MAD/week3/tutorial3_newone/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/year2.1/MAD/week3/tutorial3_newone/app/src/main/res/layout/activity_profile.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/User/Documents/year2.1/MAD/week3/tutorial3_newone/app/src/main/res/layout/list_items.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/User/Documents/year2.1/MAD/week4/GitHUb_Tutorial4/app/src/main/res/layout/activity_list.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/User/Documents/year2.1/MAD/week4/GitHUb_Tutorial4/app/src/main/res/layout/activity_main.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/User/Documents/year2.1/MAD/week4/GitHUb_Tutorial4/app/src/main/res/layout/list_items.xml" value="0.15489130434782608" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
