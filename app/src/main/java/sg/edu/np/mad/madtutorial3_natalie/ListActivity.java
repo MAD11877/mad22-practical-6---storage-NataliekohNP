@@ -19,6 +19,10 @@ import java.util.Random;
 
 public class ListActivity extends AppCompatActivity {
     private static final String TAG = "List Activity";
+    public String myusername = "MyUsername";
+    public String mydescription = "MyDescription";
+    public Boolean followed = true;
+    dbHandler dbHandler = new dbHandler(this, null, null, 1);
     private int randomOTP(){
         Random ran = new Random();
         int value = ran.nextInt(10000000);
@@ -73,8 +77,10 @@ public class ListActivity extends AppCompatActivity {
             use.setFollowed(true);
             use.setName(username);
             use.setDescription(description);
-            userslist.add(use);
+            dbHandler.addUsers(use);
+
         }
+        userslist = dbHandler.showall();
 
     }
 }

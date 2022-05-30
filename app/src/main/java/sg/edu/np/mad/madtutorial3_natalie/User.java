@@ -6,7 +6,15 @@ public class User {
     private Integer id;
     private Boolean followed;
 
+    public User(String Name, String Description, Integer Id, Boolean Followed) {
+        name = Name;
+        description = Description;
+        id = Id;
+        followed = Followed;
+    }
+    public User(){
 
+    }
 
     public String getName() {
         return name;
